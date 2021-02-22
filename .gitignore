@@ -1,9 +1,4 @@
 /node_modules/
-/.idea/
-/secrets.json
-/scripts/
-/migrations/
 /build/
 /test/
-/accounts.json
-
+/migrations/
