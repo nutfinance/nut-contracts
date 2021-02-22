@@ -2,4 +2,4 @@
 /build/
 /test/
 /migrations/
-./truffle-config.js
+truffle-config.js
